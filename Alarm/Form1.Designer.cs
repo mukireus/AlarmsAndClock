@@ -40,7 +40,7 @@
             this.lblClock.AutoSize = true;
             this.lblClock.Font = new System.Drawing.Font("Microsoft Tai Le", 50F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.lblClock.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.lblClock.Location = new System.Drawing.Point(208, 243);
+            this.lblClock.Location = new System.Drawing.Point(219, 245);
             this.lblClock.Name = "lblClock";
             this.lblClock.Size = new System.Drawing.Size(189, 75);
             this.lblClock.TabIndex = 0;
